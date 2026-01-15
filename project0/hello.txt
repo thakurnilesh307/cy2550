@@ -1,1 +1,1 @@
-echo Hi, my name is Nilesh Thakur, and my Github username is thakurnilesh307
+Hi, my name is Nilesh Thakur, and my Github user name is thakurnilesh307.
